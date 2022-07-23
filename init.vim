@@ -1,11 +1,11 @@
 " Plugin's folder
-call plug#begin('~/.local/share/nvim/plugged')
-
-" Plugins
-Plug 'joshdick/onedark.vim'
-Plug 'sheerun/vim-polyglot'
-
-call plug#end()
+" call plug#begin('~/.local/share/nvim/plugged')
+" 
+" " Plugins
+" Plug 'joshdick/onedark.vim'
+" Plug 'sheerun/vim-polyglot'
+" 
+" call plug#end()
 
 " Configs
 set number
@@ -27,4 +27,4 @@ inoremap ii <Esc>
 
 " Themes
 set termguicolors
-colorscheme onedark
+" colorscheme onedark
